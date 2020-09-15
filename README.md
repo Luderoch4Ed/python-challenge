@@ -3,7 +3,7 @@ This project is of two part:
 
 ## PyBank 
 
-![Revenue](Images/revenue-per-lead.png)
+![Revenue](https://github.com/Luderoch4Ed/python-challenge/blob/master/Images/revenue-per-lead.png)
 
 * The task is to create a Python script that analyzes the records to calculate each of the following:
 
