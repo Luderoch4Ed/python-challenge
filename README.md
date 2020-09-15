@@ -62,3 +62,7 @@ This project is of two part:
   Winner: Khan
   -------------------------
   ```
+  ## Prerequisites
+   * Ensure the python 3.7 or later is installed on your local pc
+   * Source data is included within  this repository
+   * You can will have to download this repository manually or git commands
